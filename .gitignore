@@ -34,3 +34,6 @@ coverage.xml
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Standing standalone projects
+airline_ticket_system/
