@@ -88,3 +88,10 @@ Feel free to fork this project and submit pull requests for improvements!
 ## License
 
 This project is open source and available under the MIT License.
+
+---
+
+## 🌐 Localhost Access
+When the Django development server is running locally, you can access the application at:
+
+👉 **[http://localhost:8000](http://localhost:8000)**
